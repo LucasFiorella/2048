@@ -313,17 +313,17 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: url('../tile-sets/1.png'); }
+    background-image: url('../tile-sets/1.png'); }
   .tile.tile-4 .tile-inner {
-    background: url('../tile-sets/2.png'); }
+    background-image: url('../tile-sets/2.png'); }
   .tile.tile-8 .tile-inner {
-    background: url('../tile-sets/3.png'); }
+    background-image: url('../tile-sets/3.png'); }
   .tile.tile-16 .tile-inner {
-    background: url('../tile-sets/4.png'); }
+    background-image: url('../tile-sets/4.png'); }
   .tile.tile-32 .tile-inner {
-    background: url('../tile-sets/5.png'); }
+    background-image: url('../tile-sets/5.png'); }
   .tile.tile-64 .tile-inner {
-    background: url('../tile-sets/6.png'); }
+    background-image: url('../tile-sets/6.png'); }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: #edcf72;
